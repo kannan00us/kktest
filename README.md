@@ -1,2 +1,0 @@
-# kktest
-sample test repository
